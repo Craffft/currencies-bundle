@@ -1,0 +1,490 @@
+currencies:
+    AED:
+      label: "United Arab Emirates Dirham"
+      symbol: "د.إ"
+    AFN:
+      label: "Afghanistan Afghani"
+      symbol: "؋"
+    ALL:
+      label: "Albania Lek"
+      symbol: "Lek"
+    AMD:
+      label: "Armenia Dram"
+      symbol: "Դ"
+    AOA:
+      label: "Angola Kwanza"
+      symbol: "Kz"
+    ARS:
+      label: "Argentina Peso"
+      symbol: "$"
+    AUD:
+      label: "Australia Dollar"
+      symbol: "$A"
+    AWG:
+      label: "Aruba Guilder"
+      symbol: "ƒ"
+    AZN:
+      label: "Azerbaijan New Manat"
+      symbol: "ман"
+    BAM:
+      label: "Bosnia and Herzegovina Convertible Marka"
+      symbol: "KM"
+    BBD:
+      label: "Barbados Dollar"
+      symbol: "BDS$"
+    BDT:
+      label: "Bangladesh Taka"
+      symbol: "৳"
+    BGN:
+      label: "Bulgaria Lev"
+      symbol: "лв"
+    BHD:
+      label: "Bahrain Dinar"
+      symbol: "BD"
+    BIF:
+      label: "Burundi Franc"
+      symbol: "F.Bu."
+    BMD:
+      label: "Bermuda Dollar"
+      symbol: "BD$"
+    BND:
+      label: "Brunei Darussalam Dollar"
+      symbol: "$"
+    BOB:
+      label: "Bolivia Boliviano"
+      symbol: "Bs"
+    BRL:
+      label: "Brazil Real"
+      symbol: "R$"
+    BSD:
+      label: "Bahamas Dollar"
+      symbol: "B$"
+    BTN:
+      label: "Bhutan Ngultrum"
+      symbol: "NU"
+    BWP:
+      label: "Botswana Pula"
+      symbol: "P"
+    BYR:
+      label: "Belarus Ruble"
+      symbol: "Br"
+    BZD:
+      label: "Belize Dollar"
+      symbol: "Bz$"
+    CAD:
+      label: "Canada Dollar"
+      symbol: "C$"
+    CDF:
+      label: "Congo/Kinshasa Franc"
+      symbol: "CDF"
+    CHF:
+      label: "Switzerland Franc"
+      symbol: "SFr"
+    CLP:
+      label: "Chile Peso"
+      symbol: "CLP$"
+    CNY:
+      label: "China Yuan Renminbi"
+      symbol: "¥"
+    COP:
+      label: "Colombia Peso"
+      symbol: "COL$"
+    CRC:
+      label: "Costa Rica Colon"
+      symbol: "₡"
+    CUC:
+      label: "Cuba Convertible Peso"
+      symbol: "CUC$"
+    CUP:
+      label: "Cuba Peso"
+      symbol: "Cub$"
+    CVE:
+      label: "Cape Verde Escudo"
+      symbol: "$"
+    CZK:
+      label: "Czech Republic Koruna"
+      symbol: "Kč"
+    DJF:
+      label: "Djibouti Franc"
+      symbol: "Fdj"
+    DKK:
+      label: "Denmark Krone"
+      symbol: "Dkr"
+    DOP:
+      label: "Dominican Republic Peso"
+      symbol: "RD$"
+    DZD:
+      label: "Algeria Dinar"
+      symbol: "دج"
+    EGP:
+      label: "Egypt Pound"
+      symbol: "ج.م."
+    ERN:
+      label: "Eritrea Nakfa"
+      symbol: "Nfk"
+    ETB:
+      label: "Ethiopia Birr"
+      symbol: "Br"
+    EUR:
+      label: "Euro Member Countries"
+      symbol: "€"
+    FJD:
+      label: "Fiji Dollar"
+      symbol: "FJ$"
+    FKP:
+      label: "Falkland Islands (Malvinas) Pound"
+      symbol: "FK£"
+    GBP:
+      label: "United Kingdom Pound"
+      symbol: "£"
+    GEL:
+      label: "Georgia Lari"
+      symbol: "GEL"
+    GGP:
+      label: "Guernsey Pound"
+      symbol: "£"
+    GHS:
+      label: "Ghana Cedi"
+      symbol: "¢"
+    GIP:
+      label: "Gibraltar Pound"
+      symbol: "£"
+    GMD:
+      label: "Gambia Dalasi"
+      symbol: "D"
+    GNF:
+      label: "Guinea Franc"
+      symbol: "FG/"
+    GTQ:
+      label: "Guatemala Quetzal"
+      symbol: "Q"
+    GYD:
+      label: "Guyana Dollar"
+      symbol: "G$"
+    HKD:
+      label: "Hong Kong Dollar"
+      symbol: "HK$"
+    HNL:
+      label: "Honduras Lempira"
+      symbol: "L"
+    HRK:
+      label: "Croatia Kuna"
+      symbol: "kn"
+    HTG:
+      label: "Haiti Gourde"
+      symbol: "G"
+    HUF:
+      label: "Hungary Forint"
+      symbol: "Ft"
+    IDR:
+      label: "Indonesia Rupiah"
+      symbol: "Rp"
+    ILS:
+      label: "Israel Shekel"
+      symbol: "₪"
+    IMP:
+      label: "Isle of Man Pound"
+      symbol: "£"
+    INR:
+      label: "India Rupee"
+      symbol: "₹"
+    IQD:
+      label: "Iraq Dinar"
+      symbol: "د.ع"
+    IRR:
+      label: "Iran Rial"
+      symbol: "ريال"
+    ISK:
+      label: "Iceland Krona"
+      symbol: "ikr"
+    JEP:
+      label: "Jersey Pound"
+      symbol: "£"
+    JMD:
+      label: "Jamaica Dollar"
+      symbol: "J$"
+    JOD:
+      label: "Jordan Dinar"
+      symbol: "JOD"
+    JPY:
+      label: "Japan Yen"
+      symbol: "¥"
+    KES:
+      label: "Kenya Shilling"
+      symbol: "KSh"
+    KGS:
+      label: "Kyrgyzstan Som"
+      symbol: "KGS"
+    KHR:
+      label: "Cambodia Riel"
+      symbol: "៛"
+    KMF:
+      label: "Comoros Franc"
+      symbol: "CF"
+    KPW:
+      label: "Korea (North) Won"
+      symbol: "₩"
+    KRW:
+      label: "Korea (South) Won"
+      symbol: "₩"
+    KWD:
+      label: "Kuwait Dinar"
+      symbol: "د.ك"
+    KYD:
+      label: "Cayman Islands Dollar"
+      symbol: "CI$"
+    KZT:
+      label: "Kazakhstan Tenge"
+      symbol: "〒"
+    LAK:
+      label: "Laos Kip"
+      symbol: "₭"
+    LBP:
+      label: "Lebanon Pound"
+      symbol: "ل.ل"
+    LKR:
+      label: "Sri Lanka Rupee"
+      symbol: "රු"
+    LRD:
+      label: "Liberia Dollar"
+      symbol: "Lib$"
+    LSL:
+      label: "Lesotho Loti"
+      symbol: "M"
+    LTL:
+      label: "Lithuania Litas"
+      symbol: "Lt"
+    LVL:
+      label: "Latvia Lat"
+      symbol: "Ls"
+    LYD:
+      label: "Libya Dinar"
+      symbol: "ل.د"
+    MAD:
+      label: "Morocco Dirham"
+      symbol: "د.م."
+    MDL:
+      label: "Moldova Leu"
+      symbol: "MDL"
+    MGA:
+      label: "Madagascar Ariary"
+      symbol: "MGA"
+    MKD:
+      label: "Macedonia Denar"
+      symbol: "ден"
+    MMK:
+      label: "Myanmar (Burma) Kyat"
+      symbol: "K"
+    MNT:
+      label: "Mongolia Tughrik"
+      symbol: "₮"
+    MOP:
+      label: "Macau Pataca"
+      symbol: "MOP$"
+    MRO:
+      label: "Mauritania Ouguiya"
+      symbol: "UM"
+    MUR:
+      label: "Mauritius Rupee"
+      symbol: "₨"
+    MVR:
+      label: "Maldives (Maldive Islands) Rufiyaa"
+      symbol: "Rf."
+    MWK:
+      label: "Malawi Kwacha"
+      symbol: "MK"
+    MXN:
+      label: "Mexico Peso"
+      symbol: "Mex$"
+    MYR:
+      label: "Malaysia Ringgit"
+      symbol: "RM"
+    MZN:
+      label: "Mozambique Metical"
+      symbol: "MT"
+    NAD:
+      label: "Namibia Dollar"
+      symbol: "N$"
+    NGN:
+      label: "Nigeria Naira"
+      symbol: "₦"
+    NIO:
+      label: "Nicaragua Cordoba"
+      symbol: "C$"
+    NOK:
+      label: "Norway Krone"
+      symbol: "kr"
+    NPR:
+      label: "Nepal Rupee"
+      symbol: "रू"
+    NZD:
+      label: "New Zealand Dollar"
+      symbol: "NZ$"
+    OMR:
+      label: "Oman Rial"
+      symbol: "﷼"
+    PAB:
+      label: "Panama Balboa"
+      symbol: "B/."
+    PEN:
+      label: "Peru Nuevo Sol"
+      symbol: "S/."
+    PGK:
+      label: "Papua New Guinea Kina"
+      symbol: "K"
+    PHP:
+      label: "Philippines Peso"
+      symbol: "₱"
+    PKR:
+      label: "Pakistan Rupee"
+      symbol: "₨"
+    PLN:
+      label: "Poland Zloty"
+      symbol: "zł"
+    PYG:
+      label: "Paraguay Guarani"
+      symbol: "Gs"
+    QAR:
+      label: "Qatar Riyal"
+      symbol: "ر.ق"
+    RON:
+      label: "Romania New Leu"
+      symbol: "lei"
+    RSD:
+      label: "Serbia Dinar"
+      symbol: "дин"
+    RUB:
+      label: "Russia Ruble"
+      symbol: "₽"
+    RWF:
+      label: "Rwanda Franc"
+      symbol: "FRw"
+    SAR:
+      label: "Saudi Arabia Riyal"
+      symbol: "ر.س"
+    SBD:
+      label: "Solomon Islands Dollar"
+      symbol: "SI$"
+    SCR:
+      label: "Seychelles Rupee"
+      symbol: "SRe"
+    SDG:
+      label: "Sudan Pound"
+      symbol: "ج.س.‏"
+    SEK:
+      label: "Sweden Krona"
+      symbol: "kr"
+    SGD:
+      label: "Singapore Dollar"
+      symbol: "S$"
+    SHP:
+      label: "Saint Helena Pound"
+      symbol: "£"
+    SLL:
+      label: "Sierra Leone Leone"
+      symbol: "Le"
+    SOS:
+      label: "Somalia Shilling"
+      symbol: "S"
+    SPL:
+      label: "Seborga Luigino"
+      symbol: "SPL"
+    SRD:
+      label: "Suriname Dollar"
+      symbol: "SRD"
+    STD:
+      label: "São Tomé and Príncipe Dobra"
+      symbol: "Db"
+    SVC:
+      label: "El Salvador Colon"
+      symbol: "₡"
+    SYP:
+      label: "Syria Pound"
+      symbol: "LS"
+    SZL:
+      label: "Swaziland Lilangeni"
+      symbol: "E"
+    THB:
+      label: "Thailand Baht"
+      symbol: "฿"
+    TJS:
+      label: "Tajikistan Somoni"
+      symbol: "TJS"
+    TMT:
+      label: "Turkmenistan Manat"
+      symbol: "TMT"
+    TND:
+      label: "Tunisia Dinar"
+      symbol: "د.ت"
+    TOP:
+      label: "Tonga Pa\"anga"
+      symbol: "T$"
+    TRY:
+      label: "Turkey Lira"
+      symbol: "₺"
+    TTD:
+      label: "Trinidad and Tobago Dollar"
+      symbol: "TT$"
+    TVD:
+      label: "Tuvalu Dollar"
+      symbol: "Z$"
+    TWD:
+      label: "Taiwan New Dollar"
+      symbol: "NT$"
+    TZS:
+      label: "Tanzania Shilling"
+      symbol: "TZS"
+    UAH:
+      label: "Ukraine Hryvna"
+      symbol: "₴"
+    UGX:
+      label: "Uganda Shilling"
+      symbol: "USh"
+    USD:
+      label: "United States Dollar"
+      symbol: "US$"
+    UYU:
+      label: "Uruguay Peso"
+      symbol: "$U"
+    UZS:
+      label: "Uzbekistan Som"
+      symbol: "лв"
+    VEF:
+      label: "Venezuela Bolivar"
+      symbol: "Bs"
+    VND:
+      label: "Viet Nam Dong"
+      symbol: "₫"
+    VUV:
+      label: "Vanuatu Vatu"
+      symbol: "VT"
+    WST:
+      label: "Samoa Tala"
+      symbol: "WS$"
+    XAF:
+      label: "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+      symbol: "ZFA"
+    XCD:
+      label: "East Caribbean Dollar"
+      symbol: "EC$"
+    XDR:
+      label: "International Monetary Fund (IMF) Special Drawing Rights"
+      symbol: "SDR"
+    XOF:
+      label: "Communauté Financière Africaine (BCEAO) Franc"
+      symbol: "CFA"
+    XPF:
+      label: "Comptoirs Français du Pacifique (CFP) Franc"
+      symbol: "XPF"
+    YER:
+      label: "Yemen Rial"
+      symbol: "﷼"
+    ZAR:
+      label: "South Africa Rand"
+      symbol: "R"
+    ZMW:
+      label: "Zambia Kwacha"
+      symbol: "ZK"
+    ZWD:
+      label: "Zimbabwe Dollar"
+      symbol: "Z$"
