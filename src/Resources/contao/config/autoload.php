@@ -23,5 +23,5 @@ ClassLoader::addNamespaces(array
 ClassLoader::addClasses(array
 (
     // Widgets
-    'Currencies\CurrencyField' => dirname(__DIR__) . '/widgets/CurrencyField.php',
+    'Currencies\CurrencyField' => 'vendor/craffft/currencies-bundle/src/Resources/contao/widgets/CurrencyField.php',
 ));
