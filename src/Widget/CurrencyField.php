@@ -9,15 +9,16 @@
  * file that was distributed with this source code.
  */
 
-namespace Currencies;
+namespace Craffft\CurrenciesBundle\Widget;
 
-class CurrencyField extends \TextField
+use Contao\System;
+use Contao\TextField;
+
+class CurrencyField extends TextField
 {
     /**
-     * Validate the value
-     *
-     * @param $varInput
-     * @return decimal
+     * @param mixed $varInput
+     * @return mixed
      */
     protected function validator($varInput)
     {
@@ -32,8 +33,6 @@ class CurrencyField extends \TextField
     }
 
     /**
-     * Generates the currency field
-     *
      * @return string
      */
     public function generate()
@@ -54,10 +53,8 @@ class CurrencyField extends \TextField
     }
 
     /**
-     * Encode a formatted number to a decimal number
-     *
      * @param $varValue
-     * @return decimal
+     * @return mixed
      */
     protected function encode($varValue)
     {
@@ -68,13 +65,11 @@ class CurrencyField extends \TextField
     }
 
     /**
-     * Decode a decimal number to a formatted number
-     *
      * @param $varValue
-     * @return string
+     * @return mixed
      */
     protected function decode($varValue)
     {
-        return \System::getFormattedNumber($varValue);
+        return System::getFormattedNumber($varValue);
     }
 }

@@ -9,4 +9,4 @@
  * file that was distributed with this source code.
  */
 
-$GLOBALS['BE_FFL']['currency'] = 'CurrencyField';
+$GLOBALS['BE_FFL']['currency'] = 'Craffft\CurrenciesBundle\Widget\CurrencyField';
