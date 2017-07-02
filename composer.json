@@ -1,6 +1,6 @@
 {
     "name": "craffft/currencies-bundle",
-    "type": "symfony-bundle",
+    "type": "contao-bundle",
     "description": "Contao 4 currencies bundle",
     "keywords": ["currencies", "euro", "dollar", "currency"],
     "license": "MIT",
